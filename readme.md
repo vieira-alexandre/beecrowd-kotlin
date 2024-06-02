@@ -19,5 +19,7 @@
  - [1015 - distancia entre dois pontos](src/main/kotlin/dev/alexandrevieira/starter/1015-distancia-entre-dois-pontos.kt)
  - [1016 - distancia](src/main/kotlin/dev/alexandrevieira/starter/1016-distancia.kt)
  - [1017 - gasto de combustivel](src/main/kotlin/dev/alexandrevieira/starter/1017-gasto-de-combustivel.kt)
+ - 1018
+ - [1019 - conversao de tempo](src/main/kotlin/dev/alexandrevieira/starter/1019-conversao-de-tempo.kt)
 
  - [1036 - formula de Bhaskara](src/main/kotlin/dev/alexandrevieira/starter/1036-formula-de-bhaskara.kt)
