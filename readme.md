@@ -42,7 +42,7 @@
  - [1038 - lanche](src/main/kotlin/dev/alexandrevieira/starter/1038-lanche.kt)
  - 1039
  - [1040 - media 3](src/main/kotlin/dev/alexandrevieira/starter/1040-media 3.kt)
- - 1041
+ - [1041 - coordenadas de um ponto](src/main/kotlin/dev/alexandrevieira/starter/1041-coordenadas-de-um-ponto.kt)
  - 1042
  - 1043
  - 1044
