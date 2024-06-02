@@ -71,7 +71,7 @@
  - [1067 - numeros impares](src/main/kotlin/dev/alexandrevieira/starter/1067-numeros-impares.kt)
  - 1068
  - 1069
- - 1070
+ - [1070 - seis numeros impares](src/main/kotlin/dev/alexandrevieira/starter/1070-seis-numeros-impares.kt)
  - 1071
  - 1072
  - 1073
