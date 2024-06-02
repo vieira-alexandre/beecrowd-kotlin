@@ -8,4 +8,5 @@
  - [1004 - produto simples](src/main/kotlin/dev/alexandrevieira/starter/1004-produto-simples.kt)
  - [1005 - media 1](src/main/kotlin/dev/alexandrevieira/starter/1005-media-1.kt)
  - [1006 - media 2](src/main/kotlin/dev/alexandrevieira/starter/1006-media-2.kt)
- - [1007 - difference](src/main/kotlin/dev/alexandrevieira/starter/1007-diferenca.kt)
+ - [1007 - diferenca](src/main/kotlin/dev/alexandrevieira/starter/1007-diferenca.kt)
+ - [1008 - salario](src/main/kotlin/dev/alexandrevieira/starter/1008-salario.kt)
