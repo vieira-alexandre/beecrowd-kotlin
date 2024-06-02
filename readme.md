@@ -38,7 +38,7 @@
  - 1034
  - [1035 - teste de selecao 1](src/main/kotlin/dev/alexandrevieira/starter/1035-teste-de-selecao-1.kt)
  - [1036 - formula de Bhaskara](src/main/kotlin/dev/alexandrevieira/starter/1036-formula-de-bhaskara.kt)
- - 1037
+ - [1037 - intervalo](src/main/kotlin/dev/alexandrevieira/starter/1037-intervalo.kt)
  - 1038
  - 1039
  - 1040
