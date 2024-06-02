@@ -68,7 +68,7 @@
  - 1064
  - 1065
  - 1066
- - 1067
+ - [1067 - numeros impares](src/main/kotlin/dev/alexandrevieira/starter/1067-numeros-impares.kt)
  - 1068
  - 1069
  - 1070
