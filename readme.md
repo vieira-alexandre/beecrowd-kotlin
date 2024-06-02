@@ -51,7 +51,7 @@
  - 1047
  - [1048 - aumento de salario](src/main/kotlin/dev/alexandrevieira/starter/1048-aumento-de-salario.kt)
  - 1049
- - 1050
+ - [1050 - DDD](src/main/kotlin/dev/alexandrevieira/starter/1050-ddd.kt)
  - 1051
  - 1052
  - 1053
