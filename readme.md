@@ -45,7 +45,7 @@
  - [1041 - coordenadas de um ponto](src/main/kotlin/dev/alexandrevieira/starter/1041-coordenadas-de-um-ponto.kt)
  - [1042 - sort simples](src/main/kotlin/dev/alexandrevieira/starter/1042-sort-simples.kt)
  - [1043 - triangulo](src/main/kotlin/dev/alexandrevieira/starter/1043-triangulo.kt)
- - 1044
+ - [1044 - multiplos](src/main/kotlin/dev/alexandrevieira/starter/1044-multiplos.kt)
  - 1045
  - 1046
  - 1047
