@@ -21,5 +21,6 @@
  - [1017 - gasto de combustivel](src/main/kotlin/dev/alexandrevieira/starter/1017-gasto-de-combustivel.kt)
  - 1018
  - [1019 - conversao de tempo](src/main/kotlin/dev/alexandrevieira/starter/1019-conversao-de-tempo.kt)
+ - [1020 - idade em dias](src/main/kotlin/dev/alexandrevieira/starter/1020-idade-em-dias.kt)
 
  - [1036 - formula de Bhaskara](src/main/kotlin/dev/alexandrevieira/starter/1036-formula-de-bhaskara.kt)
