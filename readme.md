@@ -41,7 +41,7 @@
  - [1037 - intervalo](src/main/kotlin/dev/alexandrevieira/starter/1037-intervalo.kt)
  - [1038 - lanche](src/main/kotlin/dev/alexandrevieira/starter/1038-lanche.kt)
  - 1039
- - 1040
+ - [1040 - media 3](src/main/kotlin/dev/alexandrevieira/starter/1040-media 3.kt)
  - 1041
  - 1042
  - 1043
