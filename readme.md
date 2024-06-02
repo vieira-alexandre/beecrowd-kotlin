@@ -15,3 +15,4 @@
  - [1011 - esfera](src/main/kotlin/dev/alexandrevieira/starter/1011-esfera.kt)
  - [1012 - area](src/main/kotlin/dev/alexandrevieira/starter/1012-area.kt)
  - [1013 - o maior](src/main/kotlin/dev/alexandrevieira/starter/1013-o-maior.kt)
+ - [1014 - consumo](src/main/kotlin/dev/alexandrevieira/starter/1014-consumo.kt)
