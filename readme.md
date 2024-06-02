@@ -22,7 +22,7 @@
  - [1018 - cedulas](src/main/kotlin/dev/alexandrevieira/starter/1018-cedulas.kt)
  - [1019 - conversao de tempo](src/main/kotlin/dev/alexandrevieira/starter/1019-conversao-de-tempo.kt)
  - [1020 - idade em dias](src/main/kotlin/dev/alexandrevieira/starter/1020-idade-em-dias.kt)
- - 1021
+ - [1021 - notas e moedas](src/main/kotlin/dev/alexandrevieira/starter/1021-notas-e-moedas.kt)
  - 1022
  - 1023
  - 1024
