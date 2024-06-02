@@ -44,7 +44,7 @@
  - [1040 - media 3](src/main/kotlin/dev/alexandrevieira/starter/1040-media 3.kt)
  - [1041 - coordenadas de um ponto](src/main/kotlin/dev/alexandrevieira/starter/1041-coordenadas-de-um-ponto.kt)
  - [1042 - sort simples](src/main/kotlin/dev/alexandrevieira/starter/1042-sort-simples.kt)
- - 1043
+ - [1043 - triangulo](src/main/kotlin/dev/alexandrevieira/starter/1043-triangulo.kt)
  - 1044
  - 1045
  - 1046
