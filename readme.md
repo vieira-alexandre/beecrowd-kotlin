@@ -60,7 +60,7 @@
  - 1056
  - 1057
  - 1058
- - 1059
+ - [1059 - numeros pares](src/main/kotlin/dev/alexandrevieira/starter/1059-pares.kt)
  - 1060
  - 1061
  - 1062
