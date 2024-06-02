@@ -13,3 +13,4 @@
  - [1009 - salario com bonus](src/main/kotlin/dev/alexandrevieira/starter/1009-salario-com-bonus.kt)
  - [1010 - calculo simples](src/main/kotlin/dev/alexandrevieira/starter/1010-calculo-simples.kt)
  - [1011 - esfera](src/main/kotlin/dev/alexandrevieira/starter/1011-esfera.kt)
+ - [1012 - area](src/main/kotlin/dev/alexandrevieira/starter/1012-area.kt)
