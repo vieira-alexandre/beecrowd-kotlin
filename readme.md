@@ -48,7 +48,7 @@
  - [1044 - multiplos](src/main/kotlin/dev/alexandrevieira/starter/1044-multiplos.kt)
  - 1045
  - 1046
- - 1047
+ - [1047 - tempo de jogo em minutos](src/main/kotlin/dev/alexandrevieira/starter/1047-tempo-do-jogo-em-minutos.kt)
  - [1048 - aumento de salario](src/main/kotlin/dev/alexandrevieira/starter/1048-aumento-de-salario.kt)
  - 1049
  - [1050 - DDD](src/main/kotlin/dev/alexandrevieira/starter/1050-ddd.kt)
