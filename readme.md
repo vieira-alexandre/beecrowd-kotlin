@@ -10,3 +10,4 @@
  - [1006 - media 2](src/main/kotlin/dev/alexandrevieira/starter/1006-media-2.kt)
  - [1007 - diferenca](src/main/kotlin/dev/alexandrevieira/starter/1007-diferenca.kt)
  - [1008 - salario](src/main/kotlin/dev/alexandrevieira/starter/1008-salario.kt)
+ - [1009 - salario com bonus](src/main/kotlin/dev/alexandrevieira/starter/1009-salario-com-bonus.kt)
