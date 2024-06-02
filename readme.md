@@ -19,7 +19,7 @@
  - [1015 - distancia entre dois pontos](src/main/kotlin/dev/alexandrevieira/starter/1015-distancia-entre-dois-pontos.kt)
  - [1016 - distancia](src/main/kotlin/dev/alexandrevieira/starter/1016-distancia.kt)
  - [1017 - gasto de combustivel](src/main/kotlin/dev/alexandrevieira/starter/1017-gasto-de-combustivel.kt)
- - 1018
+ - [1018 - cedulas](src/main/kotlin/dev/alexandrevieira/starter/1018-cedulas.kt)
  - [1019 - conversao de tempo](src/main/kotlin/dev/alexandrevieira/starter/1019-conversao-de-tempo.kt)
  - [1020 - idade em dias](src/main/kotlin/dev/alexandrevieira/starter/1020-idade-em-dias.kt)
  - 1021
