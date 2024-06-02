@@ -11,3 +11,4 @@
  - [1007 - diferenca](src/main/kotlin/dev/alexandrevieira/starter/1007-diferenca.kt)
  - [1008 - salario](src/main/kotlin/dev/alexandrevieira/starter/1008-salario.kt)
  - [1009 - salario com bonus](src/main/kotlin/dev/alexandrevieira/starter/1009-salario-com-bonus.kt)
+ - [1010 - calculo simples](src/main/kotlin/dev/alexandrevieira/starter/1010-calculo-simples.kt)
