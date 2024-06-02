@@ -67,7 +67,7 @@
  - 1063
  - [1064 - positivos e media](src/main/kotlin/dev/alexandrevieira/starter/1064-positivos-e-media.kt)
  - [1065 - pares entre cinco numeros](src/main/kotlin/dev/alexandrevieira/starter/1065-pares-entre-cinco-numeros.kt)
- - 1066
+ - [1066 - pares impares positivos e negativos](src/main/kotlin/dev/alexandrevieira/starter/1066-pares-impares-positivos-e-negativos.kt)
  - [1067 - numeros impares](src/main/kotlin/dev/alexandrevieira/starter/1067-numeros-impares.kt)
  - 1068
  - 1069
