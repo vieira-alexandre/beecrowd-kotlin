@@ -61,7 +61,7 @@
  - 1057
  - 1058
  - [1059 - numeros pares](src/main/kotlin/dev/alexandrevieira/starter/1059-pares.kt)
- - 1060
+ - [1060 - numeros positivos](src/main/kotlin/dev/alexandrevieira/starter/1060-numeros-positivos.kt)
  - 1061
  - 1062
  - 1063
