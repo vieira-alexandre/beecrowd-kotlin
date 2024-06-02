@@ -65,7 +65,7 @@
  - 1061
  - 1062
  - 1063
- - 1064
+ - [1064 - positivos e media](src/main/kotlin/dev/alexandrevieira/starter/1064-positivos-e-media.kt)
  - 1065
  - 1066
  - [1067 - numeros impares](src/main/kotlin/dev/alexandrevieira/starter/1067-numeros-impares.kt)
