@@ -53,7 +53,7 @@
  - 1049
  - [1050 - DDD](src/main/kotlin/dev/alexandrevieira/starter/1050-ddd.kt)
  - [1051 - imposto de renda](src/main/kotlin/dev/alexandrevieira/starter/1051-imposto-de-renda.kt)
- - 1052
+ - [1052 - mes](src/main/kotlin/dev/alexandrevieira/starter/1052-mes.kt)
  - 1053
  - 1054
  - 1055
