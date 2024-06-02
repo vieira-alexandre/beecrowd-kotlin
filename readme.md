@@ -17,3 +17,5 @@
  - [1013 - o maior](src/main/kotlin/dev/alexandrevieira/starter/1013-o-maior.kt)
  - [1014 - consumo](src/main/kotlin/dev/alexandrevieira/starter/1014-consumo.kt)
  - [1015 - distancia entre dois pontos](src/main/kotlin/dev/alexandrevieira/starter/1015-distancia-entre-dois-pontos.kt)
+
+ - [1036 - formula de Bhaskara](src/main/kotlin/dev/alexandrevieira/starter/1036-formula-de-bhaskara.kt)
