@@ -62,7 +62,7 @@
  - 1058
  - [1059 - numeros pares](src/main/kotlin/dev/alexandrevieira/starter/1059-pares.kt)
  - [1060 - numeros positivos](src/main/kotlin/dev/alexandrevieira/starter/1060-numeros-positivos.kt)
- - 1061
+ - [1061 - tempo de um evento](src/main/kotlin/dev/alexandrevieira/starter/1061-tempo-de-um-evento.kt)
  - 1062
  - 1063
  - [1064 - positivos e media](src/main/kotlin/dev/alexandrevieira/starter/1064-positivos-e-media.kt)
