@@ -2,7 +2,7 @@ package dev.alexandrevieira.c04_structures_and_libs
 
 import java.util.*
 
-fun main() {
+fun main(args: Array<String>) {
 
     val sb = StringBuilder()
 

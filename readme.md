@@ -103,6 +103,9 @@
  - 1099
  - 1100
 
+## 3 - strings
+ - [1519 - abreviacoes](src/main/kotlin/dev/alexandrevieira/c03_strings/1519-abreviacoes.kt)
+
 ## 4 - structures and libraries
 
  - [1110 - jogando cartas fora](src/main/kotlin/dev/alexandrevieira/c04_structures_and_libs/1110-jogando-cartas-fora.kt)
