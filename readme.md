@@ -106,3 +106,4 @@
 ## 4 - structures and libraries
 
  - [1110 - jogando cartas fora](src/main/kotlin/dev/alexandrevieira/c04_structures_and_libs/1110-jogando-cartas-fora.kt)
+ - [1259 - pares e impares](src/main/kotlin/dev/alexandrevieira/c04_structures_and_libs/1259-pares-e-impares.kt)
