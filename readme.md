@@ -1,6 +1,6 @@
 # beecrowd
 
-## starter
+## 1 - starter
  - [1000 - hello world](src/main/kotlin/dev/alexandrevieira/c01_starter/1000-hello-world.kt)
  - [1001 - extremamente basico](src/main/kotlin/dev/alexandrevieira/c01_starter/1001-extremamente-basico.kt)
  - [1002 - area do circulo](src/main/kotlin/dev/alexandrevieira/c01_starter/1002-area-do-cirulo.kt)
@@ -102,3 +102,7 @@
  - 1098
  - 1099
  - 1100
+
+## 4 - structures and libraries
+
+ - [1110 - jogando cartas fora](src/main/kotlin/dev/alexandrevieira/c04_structures_and_libs/1110-jogando-cartas-fora.kt)
