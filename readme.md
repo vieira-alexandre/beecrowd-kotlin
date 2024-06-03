@@ -72,7 +72,7 @@
  - 1068
  - 1069
  - [1070 - seis numeros impares](src/main/kotlin/dev/alexandrevieira/c01_starter/1070-seis-numeros-impares.kt)
- - 1071
+ - [1071 - soma de impares consecutivos 1](src/main/kotlin/dev/alexandrevieira/c01_starter/1071-soma-de-impares-consecutivos-1.kt)
  - 1072
  - 1073
  - 1074
